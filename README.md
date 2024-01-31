@@ -88,3 +88,7 @@
 ## Project Summary
 
 The Customer Database API is a powerful and versatile tool that enables developers to integrate comprehensive data maintaine functionality into their applications. It offers a range of features to manage customer data effectively, including creation, updating, and deletion. The API also includes secure authentication and authentication using jwt tokens in addtion to it pagination has also been implemented.
+
+The project is hosted at http://localhost:8080/auth/login once the user enters username and password api will generate a JWT token, this bearer token can be used to access all the endpoints.
+        
+        
